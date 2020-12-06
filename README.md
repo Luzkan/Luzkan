@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="img/hey-luzkan.gif" style="max-width: 100%;" alt="𝘏𝘦𝘺, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘓𝘶𝘻𝘬𝘢𝘯" />
+  <a href="https://open.spotify.com/track/0kDiRhvoKMqSpoVphgQObh" target="_blank"><img src="img/hey-luzkan.gif" style="max-width: 100%;" alt="𝘏𝘦𝘺, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘓𝘶𝘻𝘬𝘢𝘯" /></a>
   <br />
   <br />
 </div>
@@ -17,7 +17,7 @@
 
 <!-- Title -->
 <p>
-  <a href="img/dancing-baby.gif"><img width="200" align='right' src="img/dancing-baby.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
+  <a href="https://open.spotify.com/track/6kF5yqnTfh8pitj4zPuz1t" target="_blank"><img width="200" align='right' src="img/dancing-baby.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
 </p>
 
 𝓘'𝓶 𝓜𝓪𝓻𝓬𝓮𝓵 👋 𝒂𝒏𝒅...
@@ -28,10 +28,10 @@
  
 <!-- Page Info - Pros & Cons -->
  <p>
-  <img height="220" align='left' src="img/mr-skeltal.gif" alt="🇬🇴🇴🇩 🇧🇴🇳🇪🇸 🇦🇳🇩 🇳🇮🇨🇪 🇨🇦🇱🇨🇮🇺🇲">
+   <a href="https://open.spotify.com/track/5RXeg5SVxsWvtPMkTh1OM3" target="_blank"><img height="220" align='left' src="img/mr-skeltal.gif" alt="🇬🇴🇴🇩 🇧🇴🇳🇪🇸 🇦🇳🇩 🇳🇮🇨🇪 🇨🇦🇱🇨🇮🇺🇲"></a>
 </p>
 
-<img src="img/luzkans-pros-and-cons.png" width="300" alt="𝘓𝘶𝘻𝘬𝘢𝘯'𝘴 𝘗𝘳𝘰𝘴 & 𝘊𝘰𝘯𝘴" />
+ <a href="https://open.spotify.com/track/2ShC46H4Oi1Yxwz7TOzFzl" target="_blank"><img src="img/luzkans-pros-and-cons.png" width="300" alt="𝘓𝘶𝘻𝘬𝘢𝘯'𝘴 𝘗𝘳𝘰𝘴 & 𝘊𝘰𝘯𝘴" /></a>
 
  🐔 [`python`](https://github.com/Luzkan/PythonCourse), [`gdscript`](#this-one-is-top-secret), [`flask`](https://github.com/Luzkan/NotifAyy), [`.html`](https://github.com/Luzkan/WWW), [`.css`](https://github.com/Luzkan/YouTubeBlackNightCSS), [`.js`](https://github.com/Luzkan/FacebookMessengerMsgsUndeleter)
 
