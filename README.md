@@ -37,7 +37,7 @@
 
  🐦 [`kotlin`](https://github.com/Luzkan/PingPong), [`java`](https://github.com/Luzkan/ClinicDB), [`sql`](https://github.com/Luzkan/ClinicDB), [`jenkins`](#sorry-nda-super-top-secret), [`bash`](https://github.com/Luzkan/DeveloperEnvironment), [`shell`](https://github.com/Luzkan/CAaOS), [`C`](https://github.com/Luzkan/CAaOS)
 
- 🐤 [`julia`](https://github.com/Luzkan/ScientificCalculations), [`ada`](https://github.com/Luzkan/AdaConcurrency), [`prolog`](https://github.com/Luzkan/ProgrammingInLogic),  [`go`](https://github.com/Luzkan/GoConcurrency)
+ 🐤 [`julia`](https://github.com/Luzkan/ScientificCalculations), [`ada`](https://github.com/Luzkan/AdaConcurrency), [`prolog`](https://github.com/Luzkan/ProgrammingInLogic),  [`golang`](https://github.com/Luzkan/GoConcurrency)
 
  🌷 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚞𝚡/𝚞𝚒, 𝚐𝚊𝚖𝚎 𝚍𝚎𝚜𝚒𝚐𝚗
 
