@@ -22,26 +22,29 @@
 
 𝓘'𝓶 𝓜𝓪𝓻𝓬𝓮𝓵 👋 𝒂𝒏𝒅...
 
-𝑰 𝒄𝒐𝒑𝒚 𝒔𝒕𝒂𝒄𝒌𝒐𝒗𝒆𝒓𝒇𝒍𝒐𝒘 𝒕𝒐 𝒎𝒚 𝒈𝒊𝒕𝒉𝒖𝒃 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 𝒔𝒐 𝒐𝒕𝒉𝒆𝒓 𝒔𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝒄𝒂𝒏 𝒄𝒐𝒑𝒚 𝒎𝒚 𝒈𝒊𝒕𝒉𝒖𝒃 𝒕𝒐 𝒕𝒉𝒆𝒊𝒓 𝒖𝒏𝒊 𝒂𝒔𝒔𝒊𝒈𝒏𝒎𝒆𝒏𝒕𝒔.
+𝑰 𝒄𝒐𝒑𝒚 𝑺𝒕𝒂𝒄𝒌𝑶𝒗𝒆𝒓𝒇𝒍𝒐𝒘 𝒊𝒏𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 𝒔𝒐 𝒕𝒉𝒂𝒕 𝒐𝒕𝒉𝒆𝒓 𝒔𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝒄𝒂𝒏 𝒄𝒐𝒑𝒚 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆𝒊𝒓 𝒖𝒏𝒊 𝒂𝒔𝒔𝒊𝒈𝒏𝒎𝒆𝒏𝒕𝒔. 🤗
 
 ---
  
 <!-- Page Info - Pros & Cons -->
  <p>
-   <a href="https://open.spotify.com/track/5RXeg5SVxsWvtPMkTh1OM3" target="_blank"><img height="220" align='left' src="img/mr-skeltal.gif" alt="🇬🇴🇴🇩 🇧🇴🇳🇪🇸 🇦🇳🇩 🇳🇮🇨🇪 🇨🇦🇱🇨🇮🇺🇲"></a>
+   <a href="https://open.spotify.com/track/5RXeg5SVxsWvtPMkTh1OM3" target="_blank"><img height="250" align='left' src="img/mr-skeltal.gif" alt="🇬🇴🇴🇩 🇧🇴🇳🇪🇸 🇦🇳🇩 🇳🇮🇨🇪 🇨🇦🇱🇨🇮🇺🇲"></a>
 </p>
 
  <a href="https://open.spotify.com/track/2ShC46H4Oi1Yxwz7TOzFzl" target="_blank"><img src="img/luzkans-pros-and-cons.png" width="300" alt="𝘓𝘶𝘻𝘬𝘢𝘯'𝘴 𝘗𝘳𝘰𝘴 & 𝘊𝘰𝘯𝘴" /></a>
 
- 🐔 [`python`](https://github.com/Luzkan/PythonCourse), [`gdscript`](#this-one-is-top-secret), [`flask`](https://github.com/Luzkan/NotifAyy), [`.html`](https://github.com/Luzkan/WWW), [`.css`](https://github.com/Luzkan/YouTubeBlackNightCSS), [`.js`](https://github.com/Luzkan/FacebookMessengerMsgsUndeleter)
+ 🐍 [`python`](https://github.com/Luzkan/PythonCourse) ( [`gui & tools`](at-work-nda-protected) / [`django`](at-work-nda-protected) / [`flask`](https://github.com/Luzkan/NotifAyy) / [`rpc`](at-work-nda-protected) )
 
- 🐦 [`kotlin`](https://github.com/Luzkan/PingPong), [`java`](https://github.com/Luzkan/ClinicDB), [`sql`](https://github.com/Luzkan/ClinicDB), [`jenkins`](#sorry-nda-super-top-secret), [`bash`](https://github.com/Luzkan/DeveloperEnvironment), [`shell`](https://github.com/Luzkan/CAaOS), [`C`](https://github.com/Luzkan/CAaOS)
+ 🥇 [`gdscript`](https://github.com/Luzkan/BEng-Thesis-Paper), [`scala`](https://github.com/Luzkan/Scala), [`html`](https://github.com/Luzkan/WWW), [`css`](https://github.com/Luzkan/YouTubeBlackNightCSS), [`javascript`](#Had-Facebook-Messenger-Messages-'Undeleter'-But-I-Had-To-Make-That-Project-Private-For-Reasons), [`typescript`](https://github.com/Luzkan/Polichan)
 
- 🐤 [`julia`](https://github.com/Luzkan/ScientificCalculations), [`ada`](https://github.com/Luzkan/AdaConcurrency), [`prolog`](https://github.com/Luzkan/ProgrammingInLogic),  [`golang`](https://github.com/Luzkan/GoConcurrency)
+ 🥈 [`kotlin`](https://github.com/Luzkan/PingPong), [`java`](https://github.com/Luzkan/ClinicDB), [`sql`](https://github.com/Luzkan/ClinicDB), [`jenkins`](#Well-This-One-Is-NDA-Protected-Sorry), [`bash`](https://github.com/Luzkan/DeveloperEnvironment), [`shell`](https://github.com/Luzkan/CAaOS), [`C`](https://github.com/Luzkan/CAaOS)
 
- 🌷 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚞𝚡/𝚞𝚒, 𝚐𝚊𝚖𝚎 𝚍𝚎𝚜𝚒𝚐𝚗
+ 🥉 [`julia`](https://github.com/Luzkan/ScientificCalculations), [`ada`](https://github.com/Luzkan/AdaConcurrency), [`prolog`](https://github.com/Luzkan/ProgrammingInLogic),  [`golang`](https://github.com/Luzkan/GoConcurrency)
 
- 🍁 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚍𝚎𝚟𝚘𝚙𝚜, 𝚐𝚊𝚖𝚎𝚍𝚎𝚟, 𝚠𝚎𝚋𝚍𝚎𝚟
+ 🌷 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚗𝚊𝚕𝚢𝚜𝚝, 𝚐𝚊𝚖𝚎 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚞𝚡/𝚞𝚒
+ 🐤
+
+ 🍁 𝚝𝚘𝚘𝚕𝚜𝚍𝚎𝚟, 𝚠𝚎𝚋𝚍𝚎𝚟, 𝚍𝚎𝚟𝚘𝚙𝚜, 𝚐𝚊𝚖𝚎𝚍𝚎𝚟, 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 🐦
 
 
 ---
